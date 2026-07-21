@@ -1,0 +1,11 @@
+﻿* text=auto
+*.py text diff=python
+*.md text
+*.txt text
+*.ipynb text
+*.csv text
+*.png binary
+*.jpg binary
+*.svg binary
+*.pdf binary
+*.eps binary
