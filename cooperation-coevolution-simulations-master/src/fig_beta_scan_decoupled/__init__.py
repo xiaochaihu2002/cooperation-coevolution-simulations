@@ -1,0 +1,1 @@
+"""Decoupled-rationality beta scan."""
